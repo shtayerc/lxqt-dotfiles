@@ -1,0 +1,36 @@
+# Required for void-installer
+dialog
+grub-i386-efi
+grub-x86_64-efi
+
+# Minimal usable system
+xorg
+lxqt
+pulseaudio
+dbus
+NetworkManager
+gvfs
+
+# Gui for pulseaudio
+pavucontrol-qt
+
+# Gui for NetworkManager
+nm-tray
+
+# Login manager
+lightdm-gtk3-greeter
+
+# Screen locker
+light-locker
+
+# Extra functionality
+chrony
+fuse-exfat
+unrar
+unzip
+
+# Nice gui apps
+vlc
+firefox
+FeatherPad
+octoxbps
