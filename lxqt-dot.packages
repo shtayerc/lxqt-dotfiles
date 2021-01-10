@@ -26,6 +26,7 @@ light-locker
 # Extra functionality
 chrony
 fuse-exfat
+ntfs-3g
 unrar
 unzip
 
@@ -34,3 +35,4 @@ vlc
 firefox
 FeatherPad
 octoxbps
+qpdfview
