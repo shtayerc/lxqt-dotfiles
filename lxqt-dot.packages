@@ -11,6 +11,19 @@ dbus
 NetworkManager
 gvfs
 
+# Printing
+cups
+cups-filters
+cups-pdf
+cups-pk-helper
+system-config-printer
+
+# Printer drivers
+gutenprint
+hplip
+foomatic-db
+foomatic-db-nonfree
+
 # Gui for pulseaudio
 pavucontrol-qt
 
@@ -36,3 +49,4 @@ firefox
 FeatherPad
 octoxbps
 qpdfview
+libreoffice
