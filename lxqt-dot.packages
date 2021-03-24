@@ -28,7 +28,7 @@ foomatic-db-nonfree
 pavucontrol-qt
 
 # Gui for NetworkManager
-nm-tray
+network-manager-applet
 
 # Login manager
 lightdm-gtk3-greeter
