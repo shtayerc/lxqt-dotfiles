@@ -47,6 +47,7 @@ fuse-exfat
 ntfs-3g
 unrar
 unzip
+zip
 
 # Nice gui apps
 vlc
