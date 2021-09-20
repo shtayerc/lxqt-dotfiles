@@ -22,6 +22,7 @@ cups-filters
 cups-pdf
 cups-pk-helper
 system-config-printer
+simple-scan
 
 # Printer drivers
 gutenprint
