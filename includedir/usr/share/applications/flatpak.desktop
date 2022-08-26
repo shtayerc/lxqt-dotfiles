@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Exec=/usr/bin/qterminal -e /usr/bin/flatpak install -y --user --from %f
+Name=Flatpakref installer
+Icon=octopi
+Category=System;Tools;
+NoDisplay=true
+Mimetype=application/vnd.flatpak.ref

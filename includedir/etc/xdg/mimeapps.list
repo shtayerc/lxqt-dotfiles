@@ -4,3 +4,4 @@ image/gif=lximage-qt.desktop;firefox.desktop;
 image/jpeg=lximage-qt.desktop;firefox.desktop;
 image/jpg=lximage-qt.desktop;
 image/png=lximage-qt.desktop;firefox.desktop;
+application/vnd.flatpak.ref=flatpak.desktop;
