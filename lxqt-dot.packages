@@ -49,6 +49,7 @@ ntfs-3g
 unrar
 unzip
 zip
+trash-cli
 
 # Nice gui apps
 vlc
@@ -57,3 +58,7 @@ FeatherPad
 octoxbps
 qpdfview
 libreoffice
+
+# Flatpak
+flatpak
+xdg-desktop-portal-gtk
