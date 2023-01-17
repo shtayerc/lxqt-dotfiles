@@ -2,6 +2,11 @@
 dialog
 grub-i386-efi
 grub-x86_64-efi
+cryptsetup
+lvm2
+mdadm
+void-docs-browse
+xtools-minimal
 
 # Minimal usable system
 # libglvnd - use nouveau instead of nvidia driver
